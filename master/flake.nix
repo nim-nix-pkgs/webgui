@@ -9,7 +9,7 @@
   
   inputs.src-webgui-master.flake = false;
   inputs.src-webgui-master.owner = "juancarlospaco";
-  inputs.src-webgui-master.ref   = "refs/heads/master";
+  inputs.src-webgui-master.ref   = "master";
   inputs.src-webgui-master.repo  = "webgui";
   inputs.src-webgui-master.type  = "github";
   
